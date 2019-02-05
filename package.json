@@ -87,5 +87,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "ckeditor5-id-list": "git+https://github.com/joekaczmarek/ckeditor5-id-list.git"
   }
 }
